@@ -6,7 +6,10 @@
 
 clear; clc; close all
 
-[fileName, pathName] = uigetfile('E:\Projects\ds-hunt\sc_rec', '.mat');
+[fileName, pathName] = uigetfile('*.mat', 'Select analyzed .mat file');
+if fileName == 0
+    error('No file selected. Exiting.');
+end
 load([pathName fileName])
 
 

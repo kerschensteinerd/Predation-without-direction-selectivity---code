@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Data files (large or sensitive)
+*.mp4
+*.avi
+*.h5
+*.hdf5
+*.mat
+*.xls
+*.xlsx
+
+# Output files
+*_annotated*.mp4
+*_annotated*.avi
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*_Analysis.csv
+*_Summary.csv
+*_Distribution.csv
+*_Density.csv
+*_Azimuth.csv
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
