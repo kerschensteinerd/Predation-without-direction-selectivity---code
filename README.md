@@ -26,8 +26,8 @@ The repository contains three main analysis pipelines:
 
 ```bash
 # Clone the repository
-git clone https://github.com/kerschensteinerd/Predation-without-direction-selectivity---code.git
-cd Predation-without-direction-selectivity---code
+git clone https://github.com/kerschensteinerd/Krizan2024_predation-wo-direction-selectivity.git
+cd Krizan2024_predation-wo-direction-selectivity
 
 # Install Python dependencies
 pip install -r requirements.txt

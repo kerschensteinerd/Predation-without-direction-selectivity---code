@@ -27,7 +27,7 @@ This document provides comprehensive setup instructions for the analysis code su
 
 ```bash
 # Navigate to repository
-cd Predation-without-direction-selectivity---code
+cd Krizan2024_predation-wo-direction-selectivity
 
 # Create virtual environment (recommended)
 python -m venv venv
@@ -139,7 +139,7 @@ license('test', 'Optimization_Toolbox')
 
 ```matlab
 % Add repository directories to MATLAB path
-addpath(genpath('/path/to/Predation-without-direction-selectivity---code'))
+addpath(genpath('/path/to/Krizan2024_predation-wo-direction-selectivity'))
 
 % Save path for future sessions
 savepath

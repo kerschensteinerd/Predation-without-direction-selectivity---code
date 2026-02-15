@@ -1,7 +1,7 @@
 # Implementation Summary: High & Medium Priority Improvements
 
 **Date:** February 15, 2026  
-**Repository:** kerschensteinerd/Predation-without-direction-selectivity---code  
+**Repository:** kerschensteinerd/Krizan2024_predation-wo-direction-selectivity  
 **Status:** ✅ Complete
 
 ---
